@@ -22,5 +22,5 @@ public class TC_DWS_061_Test extends Base_Class{
 		Assert.assertEquals(driver.getTitle(), "Demo Web Shop. Jewelry","Jewelry page is not displayed");
 		test.log(Status.PASS, "Jewelry page is displayed");
 	}
-	//Hi i am siddhesh 
+	//Hi i am siddhesh jain
 }
